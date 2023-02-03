@@ -15,7 +15,7 @@ They contain antioxidants, vitamins, dietary fiber, and a range of other nutrien
 - Avocado
 - Watermelon
 - cherry 
--strawberries
+- strawberries
 - mango
 
 ### vegetables
