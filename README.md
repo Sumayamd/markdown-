@@ -19,8 +19,8 @@ They contain antioxidants, vitamins, dietary fiber, and a range of other nutrien
 - mango
 
 ### vegetables
-1.ridgegourd
-2.bottlegourd
+1. ridgegourd
+2. bottlegourd
 
 #### Links
 1. [apple](http://www.apple.com)
