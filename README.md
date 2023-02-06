@@ -27,7 +27,7 @@ They contain antioxidants, vitamins, dietary fiber, and a range of other nutrien
 2.[Google](http://www.google.com)
 
 ### images
-! [] (https://images.app.goo.gl/K64gBumNtCiEpic37)
+! [] (https://images.app.goo.gl/)
 ! []()
 
 # types of software
@@ -35,7 +35,12 @@ They contain antioxidants, vitamins, dietary fiber, and a range of other nutrien
 There are two types of `software 
 system software` and `application software`
 
-
+Numbers | softwearnames | softwareuses |
+|```    | ```           |  ```         |
+1          python          coding
+2          js              coding
+3          html            coding
+  
 
 
 
