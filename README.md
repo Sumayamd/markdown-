@@ -29,3 +29,7 @@ They contain antioxidants, vitamins, dietary fiber, and a range of other nutrien
 ### images
 ! [] (https://images.app.goo.gl/K64gBumNtCiEpic37)
 ! []()
+
+# types of software
+There are two types of 'software 
+system software' and 'application software'.
