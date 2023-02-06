@@ -36,10 +36,10 @@ There are two types of `software
 system software` and `application software`
 
 Numbers | softwearnames | softwareuses |
-|---   | ---           |  ---         |
-1          python          coding
-2          js              coding
-3          html            coding
+|---   | ---           |  ---          |
+|1     |    python     |   coding      |
+|2     |    js         |   coding      |
+|3     |    html       |   coding      |
   
 
 
