@@ -53,6 +53,6 @@ Numbers | softwearnames | softwareuses |
 ### qualitative 
 ### quantitative
 
-![](https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
+! [](https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
 
 
