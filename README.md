@@ -54,9 +54,19 @@ Numbers | softwearnames | softwareuses |
 Quality is a measure of excellence or of a state of being. 
 It describes something, either of how it was made, or how it is as compared to others.
 
+-Willingness to learn
+True professionals are always open to learning more and advancing their skill set. 
+You can do this through continued education or self-learning. Rather than waiting for your manager to train you, 
+you initiate the learning. A high-quality employee is eager to try new things and even learn from making mistakes along the way.
+
 ### quantitative
 Quantity, on the other hand, is the extent, size, or sum of something. 
 It is countable or measurable and can be expressed as a numerical value.
+-Pyhsical quantity 
+A physical quantity is a physical property of a material or system that 
+can be quantified by measurement. A physical quantity can be expressed as a value,
+which is the algebraic multiplication of a ' Numerical value ' and a ' Unit '. For example, 
+the physical quantity of mass can be quantified as '32.3 kg ', where '32.3' is the numerical value and 'kg' is the Unit.
 
 ! [Image] (https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
 
