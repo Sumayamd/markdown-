@@ -45,4 +45,14 @@ Numbers | softwearnames | softwareuses |
  markup language for documents designed to be displayed in a web browser.`
  It can be assisted by technologies such as
  Cascading Style Sheets (CSS) and scripting languages 
+ 
+
+# introductionofdatabase
+## data divided into two types
+
+### qualitative 
+### quantitative
+
+![](https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
+
 
