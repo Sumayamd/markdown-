@@ -50,8 +50,13 @@ Numbers | softwearnames | softwareuses |
 # introductionofdatabase
 ## data divided into two types
 
-### qualitative 
+### qualitative
+Quality is a measure of excellence or of a state of being. 
+It describes something, either of how it was made, or how it is as compared to others.
+
 ### quantitative
+Quantity, on the other hand, is the extent, size, or sum of something. 
+It is countable or measurable and can be expressed as a numerical value.
 
 ! [Image] (https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
 
