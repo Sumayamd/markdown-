@@ -76,7 +76,7 @@ the physical quantity of mass can be quantified as '32.3 kg ', where '32.3' is t
 
 ### What is the positive effect of environment?
     
-    natural environments improves mental well-being.
+    **natural environments** improves mental well-being.
      
        
       - Environment From Going Green
