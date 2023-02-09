@@ -68,6 +68,16 @@ can be quantified by measurement. A physical quantity can be expressed as a valu
 which is the algebraic multiplication of a ' Numerical value ' and a ' Unit '. For example, 
 the physical quantity of mass can be quantified as '32.3 kg ', where '32.3' is the numerical value and 'kg' is the Unit.
 
-! [Image] (https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
+![Image](https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
+
+#**environment**
+##environment about
+###What is the positive effect of environment?
+   natural environments improves mental well-being.
+      -Environment From Going Green
+      -Reduced Pollution
+      
+  
+
 
 
