@@ -37,8 +37,7 @@ Create a table
  payment_mode varchar(10));
  ```
 
-## Insert rows in daily_expense
-create table Data (
+## Insert rows in daily_expense(
     ID          int,
     items_names  text,
     date       date,
