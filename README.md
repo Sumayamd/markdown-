@@ -70,18 +70,9 @@ the physical quantity of mass can be quantified as '32.3 kg ', where '32.3' is t
 
 ![Image](https://www.shutterstock.com/image-vector/quality-vs-quantity-management-assure-excellent-2055808418)
 
-# **environment**
 
-## environment about
 
-### What is the positive effect of environment?
-    
-    **natural environments** improves mental well-being.
-     
-       
-      - Environment From Going Green
-      - Reduced Pollution
-      
+
   
 
 
