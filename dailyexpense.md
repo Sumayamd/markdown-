@@ -93,13 +93,6 @@ insert into daily_expense values(
 );
 
 
-Select * from table daily_expense
-
-
-                       |
-
-)
-
 
 
 
