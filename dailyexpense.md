@@ -28,7 +28,7 @@ Create a table
 
 ## Create daily_expense table
  ```sql
- create table expense_tracker
+ create table daily_expense
  (expense_id int,
  items_names text, 
  date date ,
